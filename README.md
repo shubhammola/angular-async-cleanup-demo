@@ -36,7 +36,6 @@ By handling cleanup properly, we ensure:
 
 A simple component triggers an async operation and logs cleanup during destruction.
 
-Core logic:
 <img width="458" height="126" alt="Screenshot 2026-04-15 at 20 49 05" src="https://github.com/user-attachments/assets/f8cca294-a7f5-441c-aecf-b96424642dce" />
 
 ---
